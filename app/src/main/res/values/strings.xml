@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppMiPrimeraAppKotlin</string>
+    <string name="titulo">MI PRIMERA APP EN KOTLIN</string>
+</resources>
